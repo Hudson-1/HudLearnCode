@@ -1,16 +1,16 @@
 Bulbasaur.java
  Bulbasaur
-Pikachu.java
- Pikachu
 Pokemon.java
  Pokemon
-Type.java
- Type
-MewTwo.java
- MewTwo
-Main.java
- Main
-Trainer.java
- Trainer
 PokiBattle.java
  PokiBattle
+Type.java
+ Type
+Trainer.java
+ Trainer
+MewTwo.java
+ MewTwo
+Pikachu.java
+ Pikachu
+Main.java
+ Main
